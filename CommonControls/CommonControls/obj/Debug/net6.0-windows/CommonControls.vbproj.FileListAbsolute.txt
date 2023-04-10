@@ -1,0 +1,17 @@
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.vbproj.AssemblyReference.cache
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.frmCommonControls.resources
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.vbproj.GenerateResource.cache
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.AssemblyInfoInputs.cache
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.AssemblyInfo.vb
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.vbproj.CoreCompileInputs.cache
+C:\Users\yhann\source\repos\CommonControls\CommonControls\bin\Debug\net6.0-windows\CommonControls.exe
+C:\Users\yhann\source\repos\CommonControls\CommonControls\bin\Debug\net6.0-windows\CommonControls.deps.json
+C:\Users\yhann\source\repos\CommonControls\CommonControls\bin\Debug\net6.0-windows\CommonControls.runtimeconfig.json
+C:\Users\yhann\source\repos\CommonControls\CommonControls\bin\Debug\net6.0-windows\CommonControls.dll
+C:\Users\yhann\source\repos\CommonControls\CommonControls\bin\Debug\net6.0-windows\CommonControls.pdb
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.dll
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\refint\CommonControls.dll
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.pdb
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\CommonControls.genruntimeconfig.cache
+C:\Users\yhann\source\repos\CommonControls\CommonControls\obj\Debug\net6.0-windows\ref\CommonControls.dll
